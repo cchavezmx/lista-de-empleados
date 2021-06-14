@@ -18,7 +18,7 @@ const ImgenEmployee = ({ employeeName }) => {
   if(src === null ){
     return <img src={noperson} alt="fata por capturar" style={{ width: '30px' }} />
   }
-  return <video src={src} style={{ width: '40px' }} />
+  return <video src={src} className="video--tag" />
 }
 
 function ListOfEmployee() {

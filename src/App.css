@@ -233,7 +233,14 @@
   margin-top: 10px;
   box-sizing: border-box;
   padding: 0.8rem;
+  width: 400px;
   
+}
+
+@media(max-width: 60rem){
+  .video--container{
+    width: 250px;
+  }
 }
 
 .video--container > button {
@@ -250,4 +257,12 @@
   color: #7C9E16;
   font-weight: bold;
   
+}
+
+.video--tag{
+  width: 40px;
+}
+
+.video--tag:hover{
+  width: 220px;
 }

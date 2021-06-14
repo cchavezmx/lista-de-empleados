@@ -101,7 +101,6 @@ class RecordCompount extends React.Component{
           muted
           autoPlay
           ref={this.videoElement}
-          style={{ width: '400px'}}
         />
 
         <button onClick={() => this.startRecord()}>Tomar Foto</button>
