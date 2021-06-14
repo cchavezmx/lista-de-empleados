@@ -42,15 +42,15 @@
 App de registros de empleados con captura de fotografía
 hasta este punto la app pude: 
   <lo>Añadir nuevo empleado</lo>
-  <hr/>
+  <br/>
   <lo>Editar empleado</lo>
-  <hr/>
+  <br/>
   <lo>Añadir fotografía a empleado ya capturado</lo>
-  <hr/>
+  <br/>
   <lo>Mostar el salario del empleado en dolares con api en tiempo real con Free Currency Converter API</lo>
-  <hr/>
+  <br/>
   <lo>Mostar el numero de empleados activos</lo>
-  <hr/>
+  <br/>
 
   Todo de forma local, sin integración de api 
 
